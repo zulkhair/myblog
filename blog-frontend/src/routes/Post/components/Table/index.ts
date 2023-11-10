@@ -1,0 +1,1 @@
+export {PostTableComponent} from './TablePost';
